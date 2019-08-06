@@ -1,1 +1,1 @@
-# Ejercicios Cursos
+# Ejercicios Curso
